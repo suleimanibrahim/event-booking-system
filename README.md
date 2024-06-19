@@ -17,5 +17,7 @@ NOTE #
 2. only USER with role Admin can access admin endpoints
 3. only USER with role User can accesss users endpoints
 4. User need to also register, login, before booking, or cancel booking
-5. also only admin can delete or update an event 
+5. also only admin can delete or update an event
+
+I choosed the event booking sytem using springboot because i need to write Java code because i already have most of the task asked using node.js and i dont want to just push those one's instead i preper to work on new one. but i can also attempt all of them using node.js also
 
